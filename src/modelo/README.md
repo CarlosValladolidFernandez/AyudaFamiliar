@@ -1,8 +1,9 @@
 # Ayuda Familiar
-# Equipo de programación: Vista
+# Equipo de programación: Controlador
 
 ## Trabajadores: 
-### Alejandro Cerrato Espejo
-### Enrique Baena Arrabal
-### Jose Manuel Gutierrez Rodriguez
-### Jose Manuel Lopez Sanchez
+### Manuel Andrés Garcia Rodriguez
+### Carlos Valladolid Fernández
+### Jesus Lopez Barragan
+### David Granados Atienzas
+### David Cotorruelo Garcia

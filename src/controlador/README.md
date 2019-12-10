@@ -2,8 +2,8 @@
 # Equipo de programación: Controlador
 
 ## Trabajadores: 
-### Manuel Andrés Garcia Rodriguez
-### Carlos Valladolid Fernández
-### Jesus Lopez Barragan
-### David Granados Atienzas
-### David Cotorruelo Garcia
+### Pedro Carrillo de Mendoza
+### Antonio Miguel Onrubia 
+### Javier Herrero
+### Fernando Antonio Zorrilla
+### Andrés Rodriguez Muñoz
